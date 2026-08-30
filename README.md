@@ -252,12 +252,6 @@ Simulation waveforms are analyzed to verify correct interaction between the APB 
 ### 🧪 Simulation & Verification
 
 * ModelSim
-* QuestaSim
-* Cadence Xcelium
-
-### ⚡ Synthesis
-
-* Synopsys Design Compiler
 
 ### 🖥️ Development Environment
 
