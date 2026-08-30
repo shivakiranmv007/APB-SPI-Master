@@ -1,5 +1,5 @@
 # APB-SPI Master
-📌 Project Overview
+📌** Project Overview**
 
 This project implements an APB-controlled SPI Master using Verilog HDL.
 The design provides an interface between an APB bus and an SPI Master, enabling APB transactions to control SPI data transfer.
