@@ -334,6 +334,9 @@ It strengthened practical understanding of:
 **Areas of Interest:**
 `VLSI` • `RTL Design` • `Design Verification` • `Verilog` • `SystemVerilog` • `Digital Design`
 
+📧 **Email:** shivakiranmv007@gmail.com
+🔗 **LinkedIn:** linkedin.com/in/shiva-kiran-mv-335476247
+
 ---
 
 
