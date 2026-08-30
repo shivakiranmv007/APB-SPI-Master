@@ -1,6 +1,6 @@
-# 🔌 APB-SPI Master
+# APB-SPI Master
 
-## 📌Overview
+## 📌Project Overview
 
 This project implements an **APB-to-SPI Master interface** using synthesizable **Verilog RTL**.
 
