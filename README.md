@@ -225,18 +225,18 @@ The design is verified through **simulation-based functional verification**.
 
 ### Verification includes:
 
-* ✅ Reset operation
-* ✅ APB write transactions
-* ✅ APB read transactions
-* ✅ Register read/write functionality
-* ✅ SPI configuration
-* ✅ SPI clock generation
-* ✅ Slave-select operation
-* ✅ MOSI transmission
-* ✅ MISO reception
-* ✅ Serial data shifting
-* ✅ SPI transaction completion
-* ✅ Status register behavior
+* Reset operation
+* APB write transactions
+* APB read transactions
+* Register read/write functionality
+* SPI configuration
+* SPI clock generation
+* Slave-select operation
+* MOSI transmission
+* MISO reception
+* Serial data shifting
+* SPI transaction completion
+* Status register behavior
 
 Simulation waveforms are analyzed to verify correct interaction between the APB interface and SPI signals.
 
@@ -267,26 +267,26 @@ Simulation waveforms are analyzed to verify correct interaction between the APB 
 ```text
 APB-SPI-Master/
 │
-├── 📁 rtl/
+├── rtl/
 │   ├── spi_core.v
 │   ├── spi_apb_interface.v
 │   ├── spi_shifter.v
 │   ├── spi_baud_generator.v
 │   └── spi_slave_select.v
 │
-├── 📁 tb/
+├── tb/
 │   ├── spi_core_tb.v
-│   └── spi_apb_interface_tb.v
-│
-├── 📁 docs/
-│   ├── block_diagram.png
+│   ├── spi_apb_interface_tb.v
+│   ├── spi_shifter_tb.v
+│   ├── spi_baud_generator_tb.v
+│   └── spi_slave_select_tb.v
+│ 
+├── simulation/
 │   └── waveform.png
 │
-├── 📄 README.md
-└── 📄 .gitignore
-```
+├── README.md
 
-> ℹ️ Update the filenames above to match the actual files in your repository.
+```
 
 ---
 
