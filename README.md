@@ -45,9 +45,9 @@ The project demonstrates practical concepts in **RTL Design, APB & SPI protocols
               │      SPI Core       │
               │                     │
               │  Control Logic      │
-              │  Shift Register    │
-              │  Baud Generator    │
-              │  Slave Select      │
+              │  Shift Register     │
+              │  Baud Generator     │
+              │  Slave Select       │
               └──────────┬──────────┘
                          │
                   ┌──────┼──────┐
