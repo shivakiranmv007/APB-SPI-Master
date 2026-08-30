@@ -335,6 +335,7 @@ It strengthened practical understanding of:
 `VLSI` • `RTL Design` • `Design Verification` • `Verilog` • `SystemVerilog` • `Digital Design`
 
 📧 **Email:** shivakiranmv007@gmail.com
+
 🔗 **LinkedIn:** www.linkedin.com/in/shiva-kiran-mv-335476247
 
 ---
