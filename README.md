@@ -12,18 +12,18 @@ The project demonstrates practical concepts in **RTL Design, APB & SPI protocols
 
 ## ✨ Features
 
-* 🔹 APB-based register interface
-* 🔹 SPI Master functionality
-* 🔹 APB read and write transactions
-* 🔹 Configurable SPI control
-* 🔹 CPOL and CPHA configuration
-* 🔹 MSB/LSB-first data transfer
-* 🔹 Programmable SPI clock generation
-* 🔹 Serial data transmission through MOSI
-* 🔹 Serial data reception through MISO
-* 🔹 Slave Select (SS) control
-* 🔹 Control, data, baud-rate, and status registers
-* 🔹 Simulation-based functional verification
+*  APB-based register interface
+*  SPI Master functionality
+*  APB read and write transactions
+*  Configurable SPI control
+*  CPOL and CPHA configuration
+*  MSB/LSB-first data transfer
+*  Programmable SPI clock generation
+*  Serial data transmission through MOSI
+*  Serial data reception through MISO
+*  Slave Select (SS) control
+*  Control, data, baud-rate, and status registers
+*  Simulation-based functional verification
 
 ---
 
@@ -304,15 +304,14 @@ APB-SPI-Master/
 
 ## 🚀 Future Enhancements
 
-* 🔹 UVM-based verification environment
-* 🔹 SystemVerilog Assertions (SVA)
-* 🔹 Functional coverage
-* 🔹 Code coverage
-* 🔹 Constrained-random verification
-* 🔹 Multiple SPI slave support
-* 🔹 Formal verification
-* 🔹 Timing analysis
-
+*  UVM-based verification environment
+*  SystemVerilog Assertions (SVA)
+*  Functional coverage
+*  Code coverage
+*  Constrained-random verification
+*  Multiple SPI slave support
+*  Formal verification
+  
 ---
 
 ## 🎯 Learning Outcomes
@@ -343,7 +342,5 @@ It strengthened practical understanding of:
 
 ---
 
-## 📜 Disclaimer
 
-This project is intended for **educational and learning purposes**.
 
