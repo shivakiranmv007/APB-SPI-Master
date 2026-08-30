@@ -284,7 +284,7 @@ APB-SPI-Master/
 ├── simulation/
 │   └── waveform.png
 │
-├── README.md
+└── README.md
 
 ```
 
