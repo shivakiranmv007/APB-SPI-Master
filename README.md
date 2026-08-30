@@ -9,6 +9,18 @@ The design provides an interface between an **AMBA APB bus** and an **SPI periph
 The project demonstrates practical concepts in **RTL Design, APB & SPI protocols, FSM-based control, register design, clock generation, serial data transfer, and functional verification**.
 
 ---
+## 🎯 Objectives
+
+* To design and implement an **APB-to-SPI Master interface** using synthesizable Verilog RTL.
+* To enable **APB-based configuration and control** of the SPI Master.
+* To implement reliable **serial data transmission and reception** using MOSI and MISO.
+* To generate a configurable **SPI clock (SCLK)** using a baud-rate generator.
+* To support configurable **CPOL, CPHA, and data bit order**.
+* To implement **SPI control, data, baud-rate, and status registers**.
+* To develop a **modular RTL architecture** for easier design and verification.
+* To verify the functionality of the design through **simulation and waveform analysis**.
+
+---
 
 ## ✨ Features
 
